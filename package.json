@@ -1,0 +1,22 @@
+{
+  "name": "simple-node-application",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dijaykumar/simple-node-application.git"
+  },
+  "author": "dijay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dijaykumar/simple-node-application/issues"
+  },
+  "homepage": "https://github.com/dijaykumar/simple-node-application#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
